@@ -1,0 +1,10 @@
+D:\Document\临时文件\TestNewFrm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Document\临时文件\TestNewFrm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Document\临时文件\TestNewFrm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Document\临时文件\TestNewFrm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Document\临时文件\TestNewFrm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Document\临时文件\TestNewFrm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Document\临时文件\TestNewFrm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Document\临时文件\TestNewFrm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Document\临时文件\TestNewFrm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Document\临时文件\TestNewFrm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
